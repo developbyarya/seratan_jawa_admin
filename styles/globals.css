@@ -17,4 +17,7 @@
   .button-error {
     @apply px-3 py-1.5 border-none rounded-md text-white bg-red-800 hover:brightness-50 w-fit h-fit;
   }
+  .button-primary {
+    @apply px-3 py-1.5 border-none rounded-md text-white bg-sky-800 hover:brightness-50 w-fit h-fit;
+  }
 }
